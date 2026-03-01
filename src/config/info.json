@@ -1,0 +1,14 @@
+{
+    "name": "MooMoo.io VoiceChat",
+    "version": "0.0.1",
+    "description": "VoiceChat UI",
+    "author": "razoshi, lumo",
+    "match": [
+        "*://moomoo.io/",
+        "*://moomoo.io/?server*",
+        "*://*.moomoo.io/",
+        "*://*.moomoo.io/?server*"
+    ],
+    "run-at": "document-start",
+    "grant": "none"
+}
